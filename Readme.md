@@ -7,7 +7,7 @@
 
 ### A little about me
 
-- 🎓 I'm a systems engineer student from Argentina.
+- 🎓 I'm a system engineer student from Argentina.
 - 🚀 Exploring the frontend technologies.
 - 👉🏽 "Never stop learning"
 ---
