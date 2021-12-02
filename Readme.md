@@ -30,7 +30,7 @@
 
 <p><img align="center" src="https://github-readme-stats-yoimeldev.vercel.app//api/top-langs/?username=Joadevy&layout=compact&theme=radical" alt="joadevy-languages" /></p>
 
-Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+Note: top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ---
 
