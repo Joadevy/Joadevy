@@ -19,7 +19,7 @@
 ---
 
 ### Next to be added
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-saquare&logo=React&logoColor=%2361DAFB)
 
 ---
 
