@@ -35,4 +35,4 @@ Note: top languages is only a metric of the languages my public code consists of
 
 ### 📬 Social media & contact
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=:https://twitter.com/jjoadev)](https://twitter.com/jjoadev) 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=:https://twitter.com/jjoadev)](https://twitter.com/JoaquinArlettaz) 
