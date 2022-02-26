@@ -1,7 +1,5 @@
-
-### Hello everyone, I'm Joaquín Arlettaz
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23BAA0D0&duration=6500&lines=Hello+everyone%2C+I'm+Joaqu%C3%ADn+Arlettaz!)](https://git.io/typing-svg)
 <img align="right" src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.webp" width="500"> 
-
 
 ---
 
