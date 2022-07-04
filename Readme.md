@@ -17,7 +17,7 @@
 ---
 
 ### Next to be added
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-saquare&logo=React&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-saquare&logo=React&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-saquare&logo=node.js&logoColor=white)
 
 ---
 
