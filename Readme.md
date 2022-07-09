@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23BAA0D0&duration=6500&lines=Hello+everyone%2C+I'm+Joaqu%C3%ADn+Arlettaz!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+code&size=23&color=B580BAD0&background=F00FFF00&vCenter=true&width=700&height=40&lines=Hello+everyone%2C+I'm+Joaquin+Arlettaz!)](https://git.io/typing-svg)
 <img align="right" src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.webp" width="500"> 
-
 ---
 
 ### A little about me
