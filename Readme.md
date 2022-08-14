@@ -22,12 +22,4 @@
 
 ### Github stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joadevy&theme=radical)](https://git.io/streak-stats)
-
 <p><img align="center" src="https://github-readme-stats-yoimeldev.vercel.app//api/top-langs/?username=Joadevy&layout=compact&theme=radical" alt="joadevy-languages" /></p>
-
----
-
-### 📬 Social media & contact
-
-[![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=:https://twitter.com/jjoadev)](https://twitter.com/JoaquinArlettaz) 
