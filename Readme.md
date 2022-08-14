@@ -20,6 +20,6 @@
 
 ---
 
-### Github stats
+### Github code stats
 
-<p><img align="center" src="https://github-readme-stats-yoimeldev.vercel.app//api/top-langs/?username=Joadevy&layout=compact&theme=radical" alt="joadevy-languages" /></p>
+<p><img src="https://github-readme-stats-yoimeldev.vercel.app//api/top-langs/?username=Joadevy&layout=compact&theme=radical" alt="joadevy-languages" /></p>
