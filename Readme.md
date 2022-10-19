@@ -6,7 +6,7 @@
 
 - 🎓 I'm a systems engineer student from Argentina.
 - 🚀 Exploring the frontend technologies.
-- 👉🏽 "Never stop learning"
+- 👉🏽 Every day learner.
 ---
 
 ### Currently techs
