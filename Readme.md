@@ -16,7 +16,7 @@
 ---
 
 ### Next to be added
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-saquare&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-saquare&logo=node.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-saquare&logo=next.js&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-saquare&logo=node.js&logoColor=white)
 
 ---
 
