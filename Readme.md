@@ -5,7 +5,7 @@
 ### A little about me
 
 - 🎓 I'm a systems engineer student from Argentina.
-- 🚀 Exploring the frontend technologies.
+- 🚀 Exploring web technologies.
 - 👉🏽 Everyday learner.
 ---
 
