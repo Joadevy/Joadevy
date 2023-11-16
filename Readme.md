@@ -23,4 +23,4 @@
 
 ### Github code stats
 
-<p><img src="https://github-readme-stats-yoimeldev.vercel.app//api/top-langs/?username=Joadevy&layout=compact&theme=radical" alt="joadevy-languages" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joadevy&layout=compact&theme=transparen)
